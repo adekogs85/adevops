@@ -14,7 +14,7 @@
 
 body{
 	line-height: 1.3;
-	height: 10000px;
+	
 }
 
 
@@ -142,8 +142,14 @@ body{
 	color: #007dc6;
 }
 
-#technologies .col-md-4{
-	margin-bottom: 3rem;
+#technologies .col-md-6{
+	margin-bottom: 3rem;		
+}
+
+
+#technologies .col-md-6 p,
+#technologies .col-md-12 p {
+	font-weight: 500 ;
 }
 /*End of Technologies section*/
 
